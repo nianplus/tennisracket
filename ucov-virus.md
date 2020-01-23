@@ -84,6 +84,6 @@
 - [丁香园专题：武汉新型冠状病毒肺炎](https://i.dxy.cn/touch/bbs/special?specialId=409)
 - [最新！武汉同济、武汉协和同时发布新型冠状病毒肺炎快速诊疗指南！](http://www.dxy.cn/bbs/topic/42657770)
 - [肺炎阴影下，去机场车站要注意什么？6 个要点，千万牢记](http://www.dxy.cn/bbs/topic/42657353)
-- [现场 | 武汉新型肺炎：为何直到今天才引起更大注意？](http://www.dxy.cn/bbs/topic/42659418)
+- [现场/武汉新型肺炎：为何直到今天才引起更大注意？](http://www.dxy.cn/bbs/topic/42659418)
 - [武汉新型冠状病毒肺炎疫情地图，实时更新](http://www.dxy.cn/bbs/topic/42650241)
 - [新型肺炎 17 例死亡病例病情介绍](http://www.dxy.cn/bbs/topic/42662501)
